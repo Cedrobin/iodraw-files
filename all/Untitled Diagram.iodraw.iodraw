@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kWGemg4u5aX3eGInYr87-1" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kWGemg4u5aX3eGInYr87-3" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1">
           <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
