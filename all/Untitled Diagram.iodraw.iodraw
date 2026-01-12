@@ -36,13 +36,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWGemg4u5aX3eGInYr87-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1">
-          <mxGeometry x="-0.2869" y="12" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="434" y="350" as="sourcePoint" />
-            <mxPoint x="516" y="405" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
